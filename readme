@@ -1,2 +1,4 @@
 # Webscrapper
 A project to download all images and videos from a website
+requires beaautifulsoup4
+currently only image support added
